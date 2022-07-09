@@ -6,7 +6,7 @@ Demo project implementing reactive [Spring GraphQL](https://docs.spring.io/sprin
 
 You'll need a MongoDB instance running on `localhost` at the default **port** of `27017`. 
 
-Create a database `greetings` and a collection `greeting` within the database. Import into the `greeting` collection the data found in [`greetings.json`](./src/main/resources/data/greetings.json) into the 'greeting' collection.
+Create a database `greetings` and a collection `greeting` within the database. Import into the `greeting` collection the data found in [`greetings.json`](./src/main/resources/data/greetings.json).
 
 ### Running
 Now you can run the Spring GraphQL server by running below from the project root:
