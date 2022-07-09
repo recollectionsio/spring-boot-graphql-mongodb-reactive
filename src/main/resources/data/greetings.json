@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "62ad316ad91a863800676b29"
+  },
+  "type": "Greeting",
+  "greeting": [
+    "Hello"
+  ]
+},{
+  "_id": {
+    "$oid": "62ad31ded91a863800676b2a"
+  },
+  "type": "Greetings",
+  "greeting": [
+    "Hi",
+    "Bonjour",
+    "Hola",
+    "Ciao",
+    "Zdravo"
+  ]
+}]
